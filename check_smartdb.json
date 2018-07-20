@@ -1562,10 +1562,10 @@
 		"Western Digital Black": {
                     "Device": ["WDC WD1003FZEX-00K3CA0"],
                     "ID#" : {
-                       	"1" : "VALUE", # Raw Read Error Rate
-	                "3" : "VALUE", # Spin Up Time
-	                "4" : "RAW_VALUE", # Start Stop Count
-        	        "5" : "RAW_VALUE", # Re-allocated Sectors Count
+ 			"1" : "VALUE", # Raw Read Error Rate
+			"3" : "VALUE", # Spin Up Time
+			"4" : "RAW_VALUE", # Start Stop Count
+			"5" : "RAW_VALUE", # Re-allocated Sectors Count
                 	"7" : "VALUE", # Seek Error Rate
 	                "9" : "RAW_VALUE", # Power-On Hours
         	        "10" : "RAW_VALUE", # Spin Retry Count
